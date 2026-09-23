@@ -1,3 +1,5 @@
+# Archived. Superseded by adelosky/sre-agent, forked from microsoft/sre-agent. This repo reflects the July 2026 dm-chelupati snapshot.
+
 # Azure SRE Agent Labs
 
 This repository collects the Azure SRE Agent lab scenarios under one workspace so each lab can be deployed independently for demos.
